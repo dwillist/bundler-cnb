@@ -1,0 +1,3 @@
+
+[greeting]
+  output = 'Hello from a toml file'
